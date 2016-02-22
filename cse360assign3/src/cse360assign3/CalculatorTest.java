@@ -9,8 +9,7 @@ public class CalculatorTest {
 	private Calculator myCalculator;
 	@Before
 	public void setUp() throws Exception{
-		Calculator myCalculator = new Calculator();
-		
+		 myCalculator = new Calculator();
 	}
 	
 	@After
